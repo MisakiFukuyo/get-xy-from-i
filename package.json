@@ -1,0 +1,25 @@
+{
+  "name": "get-xy-from-i",
+  "version": "1.0.0",
+  "description": "Get x,y from index by width",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TakafumiFukuyo/get-xy-from-i.git"
+  },
+  "keywords": [
+    "index",
+    "x",
+    "y",
+    "length"
+  ],
+  "author": "Takafumi Fukuyo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TakafumiFukuyo/get-xy-from-i/issues"
+  },
+  "homepage": "https://github.com/TakafumiFukuyo/get-xy-from-i#readme"
+}
